@@ -4,9 +4,9 @@ Fairy-15
 “The world of fairies and flying metal machines”
 
 Team members:
-Nicholas Robinson
-Simeng Yang
-Anirudh Iyer
+Nicholas Robinson, 
+Simeng Yang, 
+Anirudh Iyer, 
 Divit Sharma
 
 A high-concept sci-fi, multiplayer, first person, dogfight game. 
