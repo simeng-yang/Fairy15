@@ -5,8 +5,8 @@ Fairy-15
 Winner of the "Most Over the Top/Ambitious" award for Waterloo Game Jam, Fall 2017.
 
 Team members:  
-Nicholas Robinson,   
 Simeng Yang,   
+Nicholas Robinson,   
 Anirudh Iyer,   
 Divit Sharma  
 
