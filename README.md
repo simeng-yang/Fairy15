@@ -2,7 +2,7 @@
 
 Fairy-15  
 “The world of fairies and flying metal machines”  
-Winner of the "Most Over the Top/Ambitious" award.  
+Winner of the "Most Over the Top/Ambitious" award for Waterloo Game Jam, Fall 2017.
 
 Team members:  
 Nicholas Robinson,   
