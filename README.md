@@ -10,7 +10,7 @@ Nicholas Robinson,
 Anirudh Iyer,   
 Divit Sharma  
 
-A high-concept sci-fi, multiplayer, first person, dogfight game. 
+A high-concept sci-fi, multiplayer, 3D first person dogfight game. 
 Stylistic, colourful, with gorgeous varied terrain. Two or more players can ready-up into an exciting battle in the skies, filled with deadly bullets. Players can control the movement of the their respective jets with the WASD keys and fire with SPACE. 
 
 Fun fact: The name Fairy_15 is inspired by the lead player object being an F15 jet and the scenery being dominated by a "fairy" castle.
