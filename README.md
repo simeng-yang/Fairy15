@@ -2,6 +2,7 @@
 
 Fairy-15
 “The world of fairies and flying metal machines”
+Winner of the "Most Over the Top/Ambitious" award.
 
 Team members:
 Nicholas Robinson, 
@@ -11,3 +12,6 @@ Divit Sharma
 
 A high-concept sci-fi, multiplayer, first person, dogfight game. 
 Stylistic, colourful, with gorgeous varied terrain. Two or more players can ready-up into an exciting battle in the skies, filled with deadly bullets. Players can control the movement of the their respective jets with the WASD keys and fire with SPACE. 
+
+
+Fun fact: The name Fairy_15 is inspired by the lead player object being an F15 jet and the scenery being dominated by a "fairy" castle.
