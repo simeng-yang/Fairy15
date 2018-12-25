@@ -5,6 +5,8 @@ Fairy15
 Winner of the "Most Over the Top/Ambitious" award for Waterloo Game Jam, Fall 2017.  
 Made in Unity game engine.
 
+![dogfighter](https://github.com/simeng-yang/Fairy15/blob/master/dogfighter.png)
+
 Team members:  
 Simeng Yang,   
 Nicholas Robinson,   
