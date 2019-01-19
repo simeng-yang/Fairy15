@@ -9,9 +9,9 @@ Made in Unity game engine.
 
 ![lobby](https://storage.googleapis.com/simengyang/lobby.png)
 
-![shoot](https://storage.googleapis.com/simengyang/shoot.png)
+![fly-by](https://storage.googleapis.com/simengyang/shoot.png)
 
-![sky](https://storage.googleapis.com/simengyang/sky.png)
+![sky-sun](https://storage.googleapis.com/simengyang/sky.png)
 
 Team members:  
 Simeng Yang,   
