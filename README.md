@@ -7,7 +7,11 @@ Made in Unity game engine.
 
 ![intro](https://storage.googleapis.com/simengyang/intro.png)
 
-![dogfighter](https://storage.googleapis.com/simengyang/dogfighter.png)
+![lobby](https://storage.googleapis.com/simengyang/lobby.png)
+
+![shoot](https://storage.googleapis.com/simengyang/shoot.png)
+
+![sky](https://storage.googleapis.com/simengyang/sky.png)
 
 Team members:  
 Simeng Yang,   
