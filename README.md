@@ -5,13 +5,13 @@ Fairy15
 Winner of the "Most Over the Top/Ambitious" award for Waterloo Game Jam, Fall 2017.  
 Made in Unity game engine.
 
-![intro](https://storage.googleapis.com/simengyang/intro.png)
+![intro](https://i.ibb.co/kqwL57F/intro.png)
 
-![lobby](https://storage.googleapis.com/simengyang/lobby.png)
+![lobby](https://i.ibb.co/cg0N4s3/lobby.png)
 
-![fly-by](https://storage.googleapis.com/simengyang/shoot.png)
+![fly-by](https://i.ibb.co/9sNTT3L/shoot.png)
 
-![sky-sun](https://storage.googleapis.com/simengyang/sky.png)
+![sky-sun](https://i.ibb.co/jfDJgCz/sky.png)
 
 Team members:  
 Simeng Yang,   
